@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mda:home|Door43 (mda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mda|d43-mda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mda/archive/master.zip|d43-mda.zip]]
+
+**Recent Changes**
+{{changes>ns = mda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mda|Ethnologue data]]
+
